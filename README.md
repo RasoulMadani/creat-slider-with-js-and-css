@@ -2,5 +2,7 @@
  creat slider with js and css
 
 
-https://github.com/RasoulMadani/creat-slider-with-js-and-css/assets/86700824/38318ceb-a6ad-4930-bd1f-677c2eb5e01e
+
+
+https://github.com/RasoulMadani/creat-slider-with-js-and-css/assets/86700824/99bc78a8-a0e6-46c0-9158-9388d4e62e3d
 
